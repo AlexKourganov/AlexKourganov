@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm a passionate Front End Developer</h1>
 <h3 align="center">"To err is human, but to air is fan",</h3>
+<p align="center">
+<img alt="coding" width="400" src="https://github.com/AlexKourganov/AlexKourganov/blob/main/codingman.gif?raw=true">
+</p>
 
 ##
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexKourganov&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
