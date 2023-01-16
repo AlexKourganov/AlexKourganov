@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/AlexKourganov/AlexKourganov/blob/main/banner1.gif?raw=true)
+##
 <h1 align="center">Hi 👋, I'm a passionate Front End Developer</h1>
 <h3 align="center">"To err is human, but to air is fan",</h3>
 <p align="center">
